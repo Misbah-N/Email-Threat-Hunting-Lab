@@ -1,52 +1,98 @@
 # Email Threat Hunting Lab
 
-## 📌 About this Repository
-
-This repository documents my learning journey in **Email Threat Hunting**, focusing on how modern email-based cyber attacks can be detected, investigated, and mitigated using Microsoft security technologies.
-
-The content is based on public information, personal research, Microsoft documentation, lab exercises, and cybersecurity best practices. No proprietary or confidential information from my employer is included.
+> A practical knowledge base for Microsoft Defender for Office 365, Microsoft Sentinel, email security, threat hunting, and detection engineering.
 
 ---
 
-## 🎯 Objectives
+## About This Repository
 
-- Understand modern email attacks
-- Learn effective investigation techniques
-- Improve threat hunting skills
-- Build practical detection knowledge
-- Document investigation methodologies
+This repository documents my journey as a Cyber Security Analyst specializing in Microsoft email security, threat hunting, and detection engineering.
+
+Unlike traditional study notes, this repository focuses on how these concepts are applied during real-world investigations.
+
+The goal is to build a practical reference for Security Engineers, Threat Hunters, SOC Analysts, and anyone interested in Microsoft security technologies.
 
 ---
 
-## 🛡️ Technologies
+## Areas Covered
+
+- Email Authentication
+- Email Attacks
+- Email Analysis
+- Microsoft Defender for Office 365
+- Microsoft Sentinel
+- KQL Hunting
+- Detection Engineering
+- Investigation Playbooks
+- Case Studies
+
+---
+
+## Repository Structure
+
+```text
+Email-Threat-Hunting-Lab
+│
+├── 01-Email-Authentication
+├── 02-Email-Attacks
+├── 03-Email-Analysis
+├── 04-Microsoft-Defender-for-Office-365
+├── 05-Microsoft-Sentinel
+├── 06-KQL-Hunting
+├── 07-Detection-Engineering
+├── 08-Investigation-Playbooks
+└── 09-Case-Studies
+```
+
+---
+
+## Technologies & Skills
 
 - Microsoft Defender for Office 365
 - Microsoft Defender Portal
 - Microsoft Sentinel
-- KQL (Kusto Query Language)
-- MITRE ATT&CK Framework
-
----
-
-## 📂 Topics Covered
-
-- Phishing
+- Microsoft 365 Security
+- Kusto Query Language (KQL)
+- Email Threat Hunting
+- Phishing Investigation
 - Business Email Compromise (BEC)
-- QR Phishing (Quishing)
-- Malware
-- Credential Harvesting
-- Spam
-- Email Headers
-- Indicators of Compromise (IOCs)
-- Threat Hunting
+- Malware Analysis
+- Threat Detection
 - Detection Engineering
 
 ---
 
-## 🚧 Status
+## Current Progress
 
-This repository is actively being developed and will be updated regularly as I continue learning and documenting new techniques.
+| Section | Status |
+|----------|--------|
+| Email Authentication | ✅ In Progress |
+| Email Attacks | ⏳ Planned |
+| Email Analysis | ⏳ Planned |
+| Microsoft Defender for Office 365 | ⏳ Planned |
+| Microsoft Sentinel | ⏳ Planned |
+| KQL Hunting | ⏳ Planned |
+| Detection Engineering | ⏳ Planned |
+| Investigation Playbooks | ⏳ Planned |
+| Case Studies | ⏳ Planned |
 
 ---
 
-⭐ If you find this repository useful, feel free to leave a star.
+## Why I Built This
+
+As a Security Analyst, I wanted a single place to document technical concepts, investigation methodologies, and practical knowledge gained while working with Microsoft security technologies.
+
+This repository is intended to continuously evolve as I learn, investigate incidents, and develop new detection techniques.
+
+---
+
+## Certifications
+
+- Microsoft Certified: Security Operations Analyst Associate (SC-200)
+
+---
+
+## Connect With Me
+
+- LinkedIn: *(Add your LinkedIn URL here)*
+- GitHub: https://github.com/Misbah-N
