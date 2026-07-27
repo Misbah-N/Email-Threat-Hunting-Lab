@@ -94,5 +94,5 @@ This repository is intended to continuously evolve as I learn, investigate incid
 
 ## Connect With Me
 
-- LinkedIn: *(Add your LinkedIn URL here)*
+- LinkedIn: www.linkedin.com/in/misbahn
 - GitHub: https://github.com/Misbah-N
